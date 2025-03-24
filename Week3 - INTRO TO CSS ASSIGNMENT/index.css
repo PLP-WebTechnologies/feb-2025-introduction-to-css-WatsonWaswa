@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: #002244;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+#main-section {
+    padding: 30px;
+    margin: 20px;
+    border: 2px solid #002244;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+.car-image {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 20px auto;
+    border: 5px solid #002244;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.car-info {
+    font-family: 'Georgia', serif;
+    text-align: center;
+    color: #002244;
+}
